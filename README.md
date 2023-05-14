@@ -1,1 +1,1 @@
-# cpp_custom_stantard
+# cpp_custom_standard
