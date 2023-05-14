@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Projects/C/cpp_custom_stantard/custom-standart/custom_standard.h
+
+F:/Projects/C/cpp_custom_stantard/main.cpp
+iostream
+-
+custom-standart/custom_standard.h
+F:/Projects/C/cpp_custom_stantard/custom-standart/custom_standard.h
+

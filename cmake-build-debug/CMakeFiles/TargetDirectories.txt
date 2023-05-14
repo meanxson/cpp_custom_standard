@@ -1,3 +1,3 @@
-/Users/mike/Desktop/Projects/cpp_custom_standard/cmake-build-debug/CMakeFiles/cpp_custom_standard.dir
-/Users/mike/Desktop/Projects/cpp_custom_standard/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/mike/Desktop/Projects/cpp_custom_standard/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/Projects/C/cpp_custom_stantard/cmake-build-debug/CMakeFiles/cpp_custom_standard.dir
+F:/Projects/C/cpp_custom_stantard/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Projects/C/cpp_custom_stantard/cmake-build-debug/CMakeFiles/rebuild_cache.dir

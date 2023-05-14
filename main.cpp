@@ -1,6 +1,8 @@
 #include <iostream>
+#include "custom-standart/custom_standard.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+    c_std::string str("Hello");
+
+    std::cout << str.getData();
 }
